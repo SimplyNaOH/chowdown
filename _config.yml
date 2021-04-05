@@ -43,3 +43,5 @@ translation:
     search: "Suche"
     blog: "Blog"
     subscribe: "Abonnieren"
+
+theme: jekyll-theme-midnight
