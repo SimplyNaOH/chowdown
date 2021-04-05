@@ -1,13 +1,13 @@
 # Site settings
-title: Chowdown
+title: Dorfstr. 20
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://dorfstr20.xyz"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+# twitter_username: clarklab
+# github_username:  clarklab
 
 # Build settings
 markdown: kramdown
