@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Tarta de Coco (coconut and dulce de leche cake)"
-image: tarta-de-coco.jpg
+image: tarta-de-coco.jpeg
 tags: dessert, baking, cake
 
 ingredients:
